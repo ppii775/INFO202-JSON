@@ -1,33 +1,33 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"My Favorite Bay Area Restaurants": [{
+		"Name": "Birdsong",
+		"Location": "1085 Mission St, San Francisco, CA 94103",
+		"Hours": "Tue–Sat, 5–9PM",
+		"Cuisine": "New American"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Name": "Lazy Bear",
+		"Location": "3416 19th St, San Francisco, CA 94110",
+		"Hours": "Tue–Sat, 5–11PM",
+		"Cuisine": "New American"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Name": "Commis",
+		"Location": "3859 Piedmont Ave, Oakland, CA 94611",
+		"Hours": "Tue–Sat, 5–11PM",
+		"Cuisine": "New American"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Name": "Octavia",
+		"Location": "1701 Octavia St, San Francisco, CA 94109",
+		"Hours": "Tue–Sat, 5–9PM",
+		"Cuisine": "New American"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Name": "Bouchon Bistro",
+		"Location": "6534 Washington St, Yountville, CA 94599",
+		"Hours": "Tue–Sat, 12–9PM",
+		"Cuisine": "French"
 	}]
 	
 }
